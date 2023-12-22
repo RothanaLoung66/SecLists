@@ -2,6 +2,7 @@
     "recommendations": [
         "artificial.artificial-debug-extension",
         "meezilla.json",
-        "maerekai.sheerpower-debug"
+        "maerekai.sheerpower-debug",
+        "oleg-shilo.cs-script"
     ]
 }
