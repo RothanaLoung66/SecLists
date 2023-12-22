@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "artificial.artificial-debug-extension",
-        "meezilla.json"
+        "meezilla.json",
+        "maerekai.sheerpower-debug"
     ]
 }
