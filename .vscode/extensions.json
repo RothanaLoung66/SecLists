@@ -3,6 +3,7 @@
         "artificial.artificial-debug-extension",
         "meezilla.json",
         "maerekai.sheerpower-debug",
-        "oleg-shilo.cs-script"
+        "oleg-shilo.cs-script",
+        "ms-vscode.powershell"
     ]
 }
