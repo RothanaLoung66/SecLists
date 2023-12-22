@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "artificial.artificial-debug-extension"
+        "artificial.artificial-debug-extension",
+        "meezilla.json"
     ]
 }
