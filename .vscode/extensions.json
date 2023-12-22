@@ -4,7 +4,6 @@
         "meezilla.json",
         "maerekai.sheerpower-debug",
         "oleg-shilo.cs-script",
-        "ms-vscode.powershell",
-        "golang.go"
+        "ms-vscode.powershell"
     ]
 }
